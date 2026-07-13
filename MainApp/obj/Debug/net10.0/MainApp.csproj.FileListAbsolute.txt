@@ -1,0 +1,15 @@
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.AssemblyInfoInputs.cache
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.AssemblyInfo.cs
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.csproj.CoreCompileInputs.cache
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.sourcelink.json
+/workspaces/CS/MainApp/bin/Debug/net10.0/MainApp
+/workspaces/CS/MainApp/bin/Debug/net10.0/MainApp.deps.json
+/workspaces/CS/MainApp/bin/Debug/net10.0/MainApp.runtimeconfig.json
+/workspaces/CS/MainApp/bin/Debug/net10.0/MainApp.dll
+/workspaces/CS/MainApp/bin/Debug/net10.0/MainApp.pdb
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.dll
+/workspaces/CS/MainApp/obj/Debug/net10.0/refint/MainApp.dll
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.pdb
+/workspaces/CS/MainApp/obj/Debug/net10.0/MainApp.genruntimeconfig.cache
+/workspaces/CS/MainApp/obj/Debug/net10.0/ref/MainApp.dll
