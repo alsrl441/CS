@@ -4,10 +4,10 @@ class MainApp
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!"); // Hello, Wolrd! 출력
     }
 }
 
-/*output
+/* 실행결과
 Hello, World!
 */
